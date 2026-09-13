@@ -1,0 +1,6 @@
+{
+  "name": "ResumeSewa - AI Resume & Portfolio Builder",
+  "description": "Professional resume maker and portfolio builder with customizable ATS templates, PDF export, and integrated AI bullet point generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
